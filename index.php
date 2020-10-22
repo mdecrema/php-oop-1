@@ -17,12 +17,11 @@ class User {
     $this->$_password;
   }
 
-  $utente1 = new User("Paolo","Rossi","45", "pr45","p.rossi@virgilio.it","pr0001#");
-  $utente2 = new User("Mario","Bianchi","38", "mb38","m.bianchi@gmail.com","mb0002#");
-  $utente3 = new User("Luca","Verdi","26", "lv26","l.verdi@outlook.com","lv0003#");
-
 }
 
+$utente1 = new User("Paolo","Rossi","45", "pr45","p.rossi@virgilio.it","pr0001#");
+$utente2 = new User("Mario","Bianchi","38", "mb38","m.bianchi@gmail.com","mb0002#");
+$utente3 = new User("Luca","Verdi","26", "lv26","l.verdi@outlook.com","lv0003#");
 
 ?>
 
